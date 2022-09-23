@@ -8,7 +8,7 @@ export const Navbar = () => {
   }
   return (
     <nav className='w-full flex justify-between items-center rounded '>
-        <Image src='/img/Muziclogo.png' className='cursor-pointer' alt="test" width={'40px'} height={'40px'}/>
+        <Image src='/img/MuzicLogo.png' className='cursor-pointer' alt="test" width={'40px'} height={'40px'}/>
         <ul className='hidden md:flex'>
             <li><a href="#" className={sytle.anchor}>Home</a></li>
             <li><a href="#" className={sytle.anchor}>About</a></li>

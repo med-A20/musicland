@@ -51,7 +51,7 @@ export const Footer = () => {
                 />
             </div>
             <div className="mr-6">
-                <Image src='/img/Linkedin-1.png' 
+                <Image src='/img/LinkedIn-1.png' 
                 width={'50px'}
                 height={'50px'}
                 alt = {'test'}
@@ -85,7 +85,7 @@ export const Footer = () => {
         <p className=" text-center text-sm md:text-base">CopyRight &copy; 2022-2023</p>
         <div>
           <Image
-            src="/img/Muziclogo.png"
+            src="/img/MuzicLogo.png"
             className="cursor-pointer"
             alt="test"
             width={"40px"}
