@@ -39,7 +39,7 @@ export const Experience = () => {
       </div>
       <div className="flex flex-row flex-wrap justify-center item-center">
         {data.map((item, key)=>{
-          return <div className="basis-[300px] flex flex-col justify-center items-center mb-10">
+          return <div key = {key} className="basis-[300px] flex flex-col justify-center items-center mb-10">
             <div
               className="bg-dark p-3 rounded-2xl">
               <Image

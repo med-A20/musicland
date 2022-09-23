@@ -5,7 +5,8 @@ export const Download = () => {
   return (
     <div className="py-4 flex flex-col justify-center items-center w-4/6 m-auto">
       <div>
-        <Image src={"/img/Path 318.png"} width={"100px"} height={"20px"} />
+        <Image src={"/img/Path 318.png"} width={"100px"} height={"20px"} 
+                alt = {'test'} />
       </div>
       <p className = 'text-2xl font-bold my-2'>Download The Best Music</p>
       <p className="font-bold text-center md:text-left">App Now</p>
