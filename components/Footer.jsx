@@ -38,30 +38,37 @@ export const Footer = () => {
                 <Image src='/img/Facebook-1.png' 
                 width={'50px'}
                 height={'50px'}
+                
+                alt = {'test'}
                 />
             </div>
             <div className="mr-6">
                 <Image src='/img/Instagram-1.png' 
                 width={'50px'}
                 height={'50px'}
+                
+                alt = {'test'}
                 />
             </div>
             <div className="mr-6">
                 <Image src='/img/Linkedin-1.png' 
                 width={'50px'}
                 height={'50px'}
+                alt = {'test'}
                 />
             </div>
             <div className="mr-6">
                 <Image src='/img/Spotify-1.png' 
                 width={'50px'}
                 height={'50px'}
+                alt = {'test'}
                 />
             </div>
             <div className="mr-6">
                 <Image src='/img/Whatsapp-1.png' 
                 width={'50px'}
                 height={'50px'}
+                alt = {'test'}
                 />
             </div>
         </div>

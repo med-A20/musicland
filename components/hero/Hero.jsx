@@ -32,12 +32,14 @@ export const Hero = () => {
                 className=""
                 width="170px"
                 height={"48px"}
+                alt = {'test'}
               />
               <Image
                 src={"/img/App Store.png"}
                 className=""
                 width="170px"
                 height={"48px"}
+                alt = {'test'}
               />
             </div>
           </div>
@@ -48,6 +50,7 @@ export const Hero = () => {
             width={2000}
             height={2000}
             src={"/img/heroSvg.svg"}
+            alt = {'test'}
           />
         </div>
       </section>

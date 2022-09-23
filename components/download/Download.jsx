@@ -20,6 +20,8 @@ export const Download = () => {
         src='/img/download.svg'
         width='500px'
         height='300px'
+        
+        alt = {'test'}
         />
       </div>
     </div>

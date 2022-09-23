@@ -28,7 +28,8 @@ export const Experience = () => {
     <div className="w-full flex flex-col items-center py-5" >
       <div className="flex flex-col items-center mb-16">
         <div>
-          <Image src={"/img/Path 318.png"} width={'100px'} height={'20px'} />
+          <Image src={"/img/Path 318.png"} width={'100px'} height={'20px'} 
+                alt = {'test'} />
         </div>
         <p className="text-center text-2xl font-light text-white">
           Amazing App Can Change Your Daily Life
@@ -45,6 +46,8 @@ export const Experience = () => {
               width={50}
               height={50}
               src={item.image}
+              
+              alt = {'test'}
               />
             </div>
             <h2 className="text-xl font-medium my-2">
