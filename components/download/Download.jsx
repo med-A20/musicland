@@ -8,7 +8,7 @@ export const Download = () => {
         <Image src={"/img/Path 318.png"} width={"100px"} height={"20px"} 
                 alt = {'test'} />
       </div>
-      <p className = 'text-2xl font-bold my-2'>Download The Best Music</p>
+      <p className = 'text-2xl font-bold my-2 text-center'>Download The Best Music</p>
       <p className="font-bold text-center md:text-left">App Now</p>
       <p className="text-gray-100 font-medium text-center my-6">
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non excepturi
